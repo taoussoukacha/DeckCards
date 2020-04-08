@@ -1,5 +1,5 @@
 Deck of Cards API Tests
----
+-----
 ##### How to run the tests
 
  * You can run the tests directly from *IntelliJ* by right click on the test and hit run
@@ -7,8 +7,9 @@ Deck of Cards API Tests
  
  * You can also run using the following gradle command
     
-    $ gradle test build
+     `$ gradle test build `
     
-  Test result will be available under 
+  ##### Test Results
+  Test result file `index.html` will be available here: 
   
-   file:///Home directory/DeckCards/build/reports/tests/test/index.html
+   `Home directory/DeckCards/build/reports/tests/test/index.html`
