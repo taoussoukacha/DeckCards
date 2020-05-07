@@ -12,4 +12,6 @@ Deck of Cards API Tests
   ##### Test Results
   Test result file `index.html` will be available here: 
   
+
    `Home directory/DeckCards/build/reports/tests/test/index.html`
+
